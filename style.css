@@ -56,20 +56,20 @@ div {
 
 /*--固定背景01--*/
 .cd-fixed-bg.cd-bg-1 {
-  background-image: url('https://shu-naka-blog.com/wp-content/uploads/2020/03/img001.jpg');
+  background-image: url('./image/image001.jpg');
 }
 
 /*--固定背景02--*/
 .cd-fixed-bg.cd-bg-2 {
-  background-image: url('https://shu-naka-blog.com/wp-content/uploads/2020/03/img002.jpg');
+  background-image: url('./image/image002.jpg');
 }
 
 /*--固定背景03--*/
 .cd-fixed-bg.cd-bg-3 {
-  background-image: url('https://shu-naka-blog.com/wp-content/uploads/2020/03/img003.jpg');
+  background-image: url('image/image003.jpg');
 }
 
 /*--固定背景04--*/
 .cd-fixed-bg.cd-bg-4 {
-  background-image: url('https://shu-naka-blog.com/wp-content/uploads/2020/03/img004.jpg');
+  background-image: url('./image/image004.jpg');
 }
