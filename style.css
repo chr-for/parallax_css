@@ -78,3 +78,10 @@ div {
 .cd-fixed-bg.cd-bg-4 {
   background-image: url('./image/image004.jpg');
 }
+
+@media screen and (max-width: 736px) {
+	.cd-fixed-bg {
+		background-size: cover;
+		background-attachment: scroll;
+	}
+}
