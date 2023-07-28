@@ -54,6 +54,11 @@ div {
   text-align: center;
 }
 
+.blank{
+  height: 10vh;
+  min-height: auto;
+}
+
 /*--固定背景01--*/
 .cd-fixed-bg.cd-bg-1 {
   background-image: url('./image/image001.jpg');
